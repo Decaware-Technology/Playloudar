@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https:  //fonts.googleapis.com/css2?family=Spartan:wght@500&display=swap');
+.heading {
+	font-size: 35px;
+	width: 100%;
+	margin: 0px;
+}
+
+.note {
+	font-size: 16.2px;
+	color: black;
+}
+
+body {
+	background-size: cover;
+	font-family: RocknRoll One;
+	text-align: center;
+	background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+#song {
+	font-size: 23px;
+	margin: 15px;
+}
+
+canvas {
+	border-image: linear-gradient(var(--angle), green, yellow) 10;
+	animation: 10s rotate linear infinite;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #73cfd8;
+}
+
+.justagif {
+	float: right;
+}
+
+.anothergif {
+	float: left;
+}
+
+.btn-danger,
+.btn-danger {
+	font-family: spartan;
+}
+
+body {
+	font-size: 16px;
+	color: #606c71;
+}
+
+.page-header {
+	color: #fff;
+	text-align: center;
+	background-color: #159957;
+	background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+h2
+{
+	font-size: 15px;
+}
